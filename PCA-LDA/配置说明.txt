@@ -1,0 +1,8 @@
+在本来的项目中但要求去掉了libsvm，需要重新载入。
+
+除此以外只用了numpy matlibplot两个我们常的python库。
+
+MINST的data也被去掉了，要重新放入主目录下，并以data为文件夹
+
+exp-results是实验后生成的结果的图片，生成报告的latex会用到所以
+留在提交的文件中。
